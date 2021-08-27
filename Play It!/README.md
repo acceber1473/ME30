@@ -1,4 +1,4 @@
-# Play It! An electromechanical game inspired by Simon Says.
+# Play It! An electromechanical game inspired by Simon Says
 
 Play It! is an electromechanical game designed for my electronics class Fall 2020. The game requires players to repeat a sequence of randomly generated notes using the push buttons on the breadboard for a total of 7 times in a row to beat the game.
 
@@ -18,7 +18,7 @@ The Servo Motor: The motor drives the score wheel and will increase by 45 degree
 
 ## Images
 #### Game Setup with Arduino, Breadboard Circuit, and Servo Motor Score Wheel
-![Uploading Screen Shot 2021-08-27 at 6.01.43 PM.png…]()
+<img width="780" alt="Screen Shot 2021-08-27 at 6 06 56 PM" src="https://user-images.githubusercontent.com/49819466/131193406-8ea3d6f5-0d95-4273-8c76-8257d45494b7.png">
 
 #### Rear View of Score Wheel and Servo Motor
 <img width="783" alt="Screen Shot 2021-08-27 at 6 02 27 PM" src="https://user-images.githubusercontent.com/49819466/131193123-be983cae-27be-4968-9aaf-88c8620304be.png">
