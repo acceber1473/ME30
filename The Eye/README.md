@@ -10,10 +10,16 @@ The Actuator: My partner's Raspberry Pi was able to access my Pi's IP address an
 
 Unfortunately, we ran into some issues with our fabrication, resulting in the motor not providing enough torque to open and close the blades. Our eye is able to open and close manually, and the stepper motor is able to correctly rotate based on lux values based on outputting values using code. However, more work is needed to make the system fully operational. We learned a lot from our mistakes, and this project overall, especially in terms of client-server infrastructure and combining hardware with software. 
 
-[Video](https://youtu.be/_CRtaVYgQiY)
+## Video 
+[Video linked here!](https://youtu.be/_CRtaVYgQiY)
 
-![design](https://user-images.githubusercontent.com/49819466/131192796-d366aaee-7db9-4f9a-a5b4-f2d90e2638fb.jpg)
+## Images
 
+#### Planning Diagram
+<image align="center" src = "https://user-images.githubusercontent.com/49819466/131192796-d366aaee-7db9-4f9a-a5b4-f2d90e2638fb.jpg" height=50% widt=50%>
+  
+#### Eye Frame
 ![Actuator 1](https://user-images.githubusercontent.com/49819466/131192822-f2c5df77-13cc-4544-97ab-5084423581e6.jpeg)
 
+#### Light Sensor 
 <img width="1437" alt="Actuator 2" src="https://user-images.githubusercontent.com/49819466/131192826-40b9d22c-64e0-4670-b226-a1b662a19370.png">
