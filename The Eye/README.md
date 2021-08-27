@@ -16,7 +16,7 @@ Unfortunately, we ran into some issues with our fabrication, resulting in the mo
 ## Images
 
 #### Planning Diagram
-<image align="center" src = "https://user-images.githubusercontent.com/49819466/131192796-d366aaee-7db9-4f9a-a5b4-f2d90e2638fb.jpg" height=10% width=10%>
+<image align="center" src = "https://user-images.githubusercontent.com/49819466/131192796-d366aaee-7db9-4f9a-a5b4-f2d90e2638fb.jpg" height=30% width=30%>
   
 #### Eye Frame
 ![Actuator 1](https://user-images.githubusercontent.com/49819466/131192822-f2c5df77-13cc-4544-97ab-5084423581e6.jpeg)
